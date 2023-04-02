@@ -1,1 +1,1 @@
-print("hi")
+print("hello", "i am junior")
